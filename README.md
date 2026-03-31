@@ -128,9 +128,12 @@ A digitalização de bibliotecas comunitárias é um passo concreto para tornar 
 
 ## Integrantes da Equipe e Papéis
 
-| Nome | Matrícula | Papel |
-|---|---|---|
-| (Preencher com nome completo) | (Preencher) | Arquiteto de Software / Desenvolvedor Full Stack |
+Nome	                         Matrícula	      Papel
+João Victor da Silva Lima	     2326312	        Arquiteto de Software / Desenvolvedor Backend
+Pedro Átila Freitas Costa	     2323832	        Desenvolvedor Frontend Web
+José Thiago Rodrigues Tavares  2327303	        Desenvolvedor Mobile
+Risoleta Pereira Pinto	       2323869	        Analista de Requisitos / Documentação
+
 
 ---
 
